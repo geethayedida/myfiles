@@ -140,3 +140,33 @@ public class ExceptionHandling {
         }
     }
 }
+// Welcome to my cake shop
+// Enter your name
+// Geetha
+// Hi Geetha
+// Please Enter Age
+// 5
+// Enter the max price you can spend on the cake
+// 23
+// You have following options: 1. Blue cream on Cake 2. Pink Cream on cake 
+// Please pick one cake option and enter the name of the cake  
+// pink cream on cake
+// Your selected option is: pink cream on cake
+// The cake will be ready Shortly :) 
+// Do you want to buy another cake? Enter yes or no
+// yes
+// Enter the max price you can spend on the cake
+// 67
+// You have following options: 1. Blue cream on Cake 2. Pink Cream on cake 
+// You have options: 1. Barbie Cake 2. Disney Cake 
+// Please pick one cake option and enter the name of the cake  
+// barbie cake
+// Your selected option is: barbie cake
+// The cake will be ready Shortly :) 
+// Do you want to buy another cake? Enter yes or no
+// no
+// Thank you for shopping today, Please come back soon!
+// :)
+// Finally: Please try again
+
+// Process finished with exit code 0
